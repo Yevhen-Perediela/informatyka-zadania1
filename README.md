@@ -1,2 +1,2 @@
-# informatyka-zadania1
-Zadania z informatyki 2TA
+# informatyka-zadania
+Zadania z informatyki 2TA, Yevhen Perediela (16 na liście)
